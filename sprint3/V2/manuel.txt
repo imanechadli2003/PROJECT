@@ -1,0 +1,3 @@
+1-help:pour les fonctionnalités
+2-exit:pour finir la communication
+2-file:pour envoyer votre fichier 
